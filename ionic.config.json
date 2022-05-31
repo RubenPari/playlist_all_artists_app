@@ -1,0 +1,7 @@
+{
+  "name": "playlist_all_artists_app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
